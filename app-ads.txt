@@ -3,3 +3,4 @@ facebook.com, 1934969190816832, DIRECT, c3e20eee3f780d68
 facebook.com, 1638869564505928, DIRECT, c3e20eee3f780d68
 pangleglobal.com, 5029274, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
